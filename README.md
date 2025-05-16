@@ -1,7 +1,7 @@
 # PaperCode_APEN: Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-Variable-Based Reliability Assessment
 
 For better understanding, an illustrative example in "Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-Variable-Based Reliability Assessment
-" is presented in Github. This program is developed by Gurobi 9.1.2 with Python 3.7. The main program is Main.py and other files are data(excel) and parameter.
+" is presented in Github. This program is developed by **Gurobi 9.1.2 with Python 3.7**. The main program is Main.py and other files are data(excel) and parameter.
 
 The parameter of 13-bus case study system is also provided, as data_13nodes.xlsx shown.
 
