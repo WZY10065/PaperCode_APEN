@@ -5,7 +5,6 @@ For better understanding, an illustrative example in "Optimal Double Q AC-DC Hyb
 
 The parameter of 13-bus case study system is also provided, as data_13nodes.xlsx shown.
 
-
 # Prerequisites
 * gurobipy  
 * numpy 
@@ -24,4 +23,5 @@ The following figure shows the optimization result of the four cases.
 ![Fig4](https://user-images.githubusercontent.com/93502916/139666314-8812ee4f-0766-4cb5-9db6-0e01e68a1b79.png)
 
 # Reference
-[1] Ziyao W,  Lipeng Z ,  Tao Y , et al. Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-Variable-Based Reliability Assessment[J]. Applied Energy, 2021.
+[1] Z. Wang, L. Zhong, Z. Pan, T. Yu, and X. Qiu, "Optimal double Q AC-DC hybrid distribution system planning with explicit topology-variable-based reliability assessment," Applied Energy, vol. 322, p. 119438, Sep. 15, 2022. doi: 10.1016/j.apenergy.2022.119438.
+https://www.sciencedirect.com/science/article/abs/pii/S0306261922007693
